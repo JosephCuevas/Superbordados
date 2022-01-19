@@ -1,0 +1,7 @@
+.active {
+    color: #263b64;
+    border-bottom: 5px solid #263b64;
+    width: 100%;
+    border-radius: 1px;
+    transition: 0.5 ease;
+}
